@@ -1,0 +1,1 @@
+@py.exe C:\Users\xysey\dev\python\automation\programs\twitter.py %*
